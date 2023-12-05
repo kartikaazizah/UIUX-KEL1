@@ -1,0 +1,603 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pemberi-kerja-jadwal-permintaan-Zh3 {
+  width: 100%;
+  height: 102.4rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .rectangle-606-rAM {
+  width: 2.1rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 140.9rem;
+  top: 22.1rem;
+  background-color: #bdbdbd;
+  border-radius: 1.5rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #e3e3e3;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH {
+  margin-bottom: 18.2rem;
+  width: 145.1rem;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .masuk-yPP {
+  width: 7.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 133.6rem;
+  top: 15rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .rectangle-605-UL9 {
+  width: 2.1rem;
+  height: 81.2rem;
+  position: absolute;
+  left: 142.9rem;
+  top: 16.4rem;
+  background-color: rgba(0, 0, 0, 0.150000006);
+  border-radius: 1.5rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .rectangle-595-hTo {
+  width: 145.1rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(90.47deg, #01d589 4.1%, #1dcba9 97.04%);
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .user-thumb-zxh {
+  width: 4.6162rem;
+  height: 4.6162rem;
+  position: absolute;
+  left: 129rem;
+  top: 11.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.8472rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .daftar-permintaan-upm {
+  width: 15.9rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 65.9rem;
+  top: 14rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .logo-jobstreet-variant2-Pzq {
+  width: 29.1rem;
+  height: 10.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 6rem;
+  top: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .logo-jobstreet-variant2-Pzq .logo-removebg-preview-2-uyB {
+  width: 29.1rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .rectangle-574-EVf {
+  width: 38.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 88.6rem;
+  top: 10.8rem;
+  border: solid 0.1rem #0e8136;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .rectangle-606-KGD {
+  width: 2.1rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 142.9rem;
+  top: 18rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .footer-SLq {
+  box-sizing: border-box;
+  padding: 2.7rem 15.1rem 2.8rem 14rem;
+  width: 144rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 94.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #008a88;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .footer-SLq .tentang-jobstreet-express-LBK {
+  margin-right: 4.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .footer-SLq .pusat-bantuan-qtm {
+  margin-right: 44.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-jn57-gQH .footer-SLq .copyright-2023-jobstreet-express-ARF {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .rectangle-594-GjB {
+  margin: 0rem 0.2rem 36.2rem 0rem;
+  width: 144.5rem;
+  height: 35.5rem;
+  background-color: #44abc3;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-wke1-bmT {
+  box-sizing: border-box;
+  padding: 6.1rem 21rem 6.2rem 21rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #921414;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-wke1-bmT .line-20-XQD {
+  margin-right: 3rem;
+  width: 18rem;
+  height: 0.5rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-wke1-bmT .line-21-sDB {
+  margin-right: 51rem;
+  width: 12rem;
+  height: 0.5rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .preset-ZaZ .auto-group-wke1-bmT .line-22-cRf {
+  width: 18rem;
+  height: 0.5rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .brosur-lowongan-Yq7 {
+  width: 15.3rem;
+  height: 2.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 21.6rem;
+  top: 13.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .rectangle-712-rau {
+  width: 16.1rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 44rem;
+  top: 13.5rem;
+  background-color: #381c88;
+  border-radius: 1rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .wawancara-zSD {
+  width: 10.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 47rem;
+  top: 13.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .group-31-variant2-tXb {
+  width: 2.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 57.7rem;
+  top: 11.8rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .group-31-variant2-tXb .ellipse-87-pAM {
+  width: 2.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .group-31-variant2-tXb .item-6-9Cd {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P {
+  width: 133.2rem;
+  height: 74.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 18.6rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-8wmb-wuB {
+  margin: 0rem 0rem 3.179rem 11.93rem;
+  box-sizing: border-box;
+  padding: 1rem 3.3rem 1rem 3.07rem;
+  width: calc(100% - 11.9299rem);
+  height: 6.9023rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-8wmb-wuB .roboto-slab-2vd {
+  margin: 0rem 68rem 0.102rem 0rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-8wmb-wuB .auto-group-mgts-Yty {
+  margin-bottom: 1.3023rem;
+  width: 27.6rem;
+  height: 3.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-8wmb-wuB .auto-group-mgts-Yty .submit-HrZ {
+  width: 6.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 16.8953rem;
+  top: 1.0889rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-8wmb-wuB .auto-group-mgts-Yty .digital-connectivity-QAV {
+  width: 27.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1975;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b {
+  margin-right: 0.2075rem;
+  width: 132.9925rem;
+  height: 64.119rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .rectangle-617-dJ9 {
+  width: 121.0626rem;
+  height: 64.119rem;
+  position: absolute;
+  left: 11.9299rem;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 {
+  width: 24.6rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 18rem;
+  top: 2.819rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .pelamar-HtV {
+  width: 24.4rem;
+  height: 30.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25)), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .pelamar-HtV .group-48-SWV {
+  box-sizing: border-box;
+  padding: 2.279rem 4.821rem 1.994rem 4.821rem;
+  width: 100%;
+  height: 26.4013rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ecf5e5;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .pelamar-HtV .group-48-SWV .foto-profil-Z5K {
+  margin-bottom: 0.7547rem;
+  box-sizing: border-box;
+  padding: 0.95rem 0.984rem 0.95rem 0.984rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-121-kVf.png');
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .pelamar-HtV .group-48-SWV .foto-profil-Z5K .ellipse-125-H1K {
+  width: 12.7903rem;
+  height: 12.3459rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .pelamar-HtV .group-48-SWV .roboto-slab-BsP {
+  margin: 0rem 0rem 0.259rem 0.687rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .pelamar-HtV .group-48-SWV .roboto-slab-5hs {
+  margin: 0rem 0rem 0.469rem 0.652rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .pelamar-HtV .group-48-SWV .roboto-slab-CGh {
+  margin-left: 0.271rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .kirim-undangan-variant2-UED {
+  width: 13.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 28.4rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .kirim-undangan-variant2-UED .group-49-o1b {
+  width: 13.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #01d589;
+  border-radius: 2rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-85-AJ5 .kirim-undangan-variant2-UED .kirim-undangan-Gfs {
+  width: 9.2rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2.45rem;
+  top: 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX {
+  width: 25.3rem;
+  height: 32.3rem;
+  position: absolute;
+  left: 53rem;
+  top: 3.119rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .pelamar-V2q {
+  width: 24.8rem;
+  height: 29.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .pelamar-V2q .group-48-34M {
+  box-sizing: border-box;
+  padding: 2.257rem 4.9rem 1.955rem 4.9rem;
+  width: 100%;
+  height: 26.139rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ecf5e5;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25)), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .pelamar-V2q .group-48-34M .foto-profil-kjT {
+  margin-bottom: 0.7463rem;
+  box-sizing: border-box;
+  padding: 0.9402rem 1rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-121-u1B.png');
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .pelamar-V2q .group-48-34M .foto-profil-kjT .ellipse-125-UfT {
+  width: 13rem;
+  height: 12.2233rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .pelamar-V2q .group-48-34M .roboto-slab-CbT {
+  margin: 0rem 0rem 0.233rem 0.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .pelamar-V2q .group-48-34M .roboto-slab-uVs {
+  margin: 0rem 0rem 0.445rem 0.4rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .pelamar-V2q .group-48-34M .roboto-slab-RUD {
+  margin-left: 0.1rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .kirim-undangan-variant2-JH7 {
+  width: 13.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 28.1rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .kirim-undangan-variant2-JH7 .group-49-pmF {
+  width: 13.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #01d589;
+  border-radius: 2rem;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .jadwal-wawancara-e9P .auto-group-qc6d-h9b .group-87-MBX .kirim-undangan-variant2-JH7 .kirim-undangan-KCD {
+  width: 9.2rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2.45rem;
+  top: 1.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pemberi-kerja-jadwal-permintaan-Zh3 .group-53-6gy .keluar-adw {
+  width: 5.8rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 136.2rem;
+  top: 12.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.3175;
+  color: #ffffff;
+  font-family: Roboto Slab, 'Source Sans Pro';
+  white-space: nowrap;
+}

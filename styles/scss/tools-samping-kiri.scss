@@ -14,76 +14,75 @@ input {
 }
 body {
   width: 13.929rem;
-}.tools-samping-kiri-VkM {
-  display: flex;
-  flex-direction: column;
+}.tools-samping-kiri-3wo {
   width: 100%;
   align-items: center;
+  display: flex;
+  flex-direction: column;
 
-  .daftar-permintaan-tools-samping-Exq {
+  .daftar-permintaan-tools-samping-CZo {
+    flex-shrink: 0;
     margin: 0rem 1.264rem 1.943rem 1.264rem;
-    width: calc(100% - 2.5285rem);
+    width: calc(100% - 2.5286rem);
     align-items: center;
     display: flex;
     flex-direction: column;
-    flex-shrink: 0;
 
-    .list-icon-A5o {
+    .list-icon-uj7 {
+      border-radius: 3.6071rem;
       flex-shrink: 0;
+      margin: 0rem 2.093rem 1.143rem 2.093rem;
+      cursor: pointer;
+      width: calc(100% - 4.1857rem);
       box-shadow: -1.1rem 0.5rem 1rem rgba(30, 203, 170, 0.6100000143);
+      background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
       box-sizing: border-box;
       padding: 1rem 1.714rem 0.929rem 1.643rem;
-      width: calc(100% - 4.1857rem);
-      cursor: pointer;
-      background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
-      border-radius: 3.6071rem;
-      margin: 0rem 2.093rem 1.143rem 2.093rem;
 
-      .list-1-rDX {
-        width: 3.8572rem;
-        height: 5.2857rem;
+      .list-1-233 {
         object-fit: cover;
         vertical-align: top;
+        width: 3.8571rem;
+        height: 5.2857rem;
       }
     }
-    .group-79-iFj {
+    .group-79-5n1 {
       width: 100%;
       height: 4.5572rem;
       position: relative;
       flex-shrink: 0;
 
-      .daftar-GY9 {
+      .daftar-3D3 {
+        top: 0;
         text-align: center;
         font-size: 2rem;
+        font-weight: 400;
         width: 6.7rem;
+        height: 3.2rem;
         position: absolute;
         left: 2.35rem;
-        line-height: 1.5675;
         color: #ffffff;
-        font-family: Lalezar, 'Source Sans Pro';
         white-space: nowrap;
-        height: 3.2rem;
-        top: 0;
-        font-weight: 400;
+        line-height: 1.5675;
+        font-family: Lalezar, 'Source Sans Pro';
       }
-      .permintaan-NLH {
+      .permintaan-vnd {
+        height: 3.2rem;
+        text-align: center;
+        font-weight: 400;
+        line-height: 1.5675;
+        white-space: nowrap;
+        width: 11.4rem;
+        position: absolute;
         left: 0;
         top: 1.3572rem;
         font-size: 2rem;
         color: #ffffff;
-        white-space: nowrap;
-        width: 11.4rem;
-        position: absolute;
-        text-align: center;
-        font-weight: 400;
-        line-height: 1.5675;
         font-family: Lalezar, 'Source Sans Pro';
-        height: 3.2rem;
       }
     }
   }
-  .jadwal-wawancara-tools-samping-gbs {
-    cursor: pointer;
+  .jadwal-wawancara-tools-samping-36Z {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -91,8 +90,10 @@ body {
     box-sizing: border-box;
     padding: 0 1.0643rem;
     width: 100%;
+    cursor: pointer;
 
-    .calendar-ikon-R3f {
+    .calendar-ikon-yF7 {
+      flex-shrink: 0;
       margin: 0rem 2.293rem 1.143rem 2.293rem;
       box-sizing: border-box;
       padding: 1.357rem 0rem 1.232rem 0rem;
@@ -100,48 +101,47 @@ body {
       box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
       background: linear-gradient(180deg, #028a6e -0%, #1ecbaa 100%);
       border-radius: 3.6071rem;
-      flex-shrink: 0;
 
-      .calendar-1-j4M {
+      .calendar-1-5Z3 {
+        vertical-align: top;
+        width: 6.2489rem;
         height: 4.625rem;
         object-fit: cover;
-        vertical-align: top;
-        width: 6.2488rem;
       }
     }
-    .group-80-Bh3 {
+    .group-80-k9P {
       width: 100%;
       height: 4.5571rem;
       position: relative;
       flex-shrink: 0;
 
-      .jadwal-RrH {
+      .jadwal-hKX {
+        text-align: center;
+        font-size: 2rem;
         white-space: nowrap;
         width: 7.1rem;
         height: 3.2rem;
         position: absolute;
         top: 0;
-        text-align: center;
-        font-weight: 400;
-        color: #ffffff;
+        font-family: Lalezar, 'Source Sans Pro';
         left: 2.35rem;
-        font-size: 2rem;
-        line-height: 1.5675;
-        font-family: Lalezar, 'Source Sans Pro';
-      }
-      .wawancara-jc5 {
-        font-size: 2rem;
         font-weight: 400;
+        line-height: 1.5675;
+        color: #ffffff;
+      }
+      .wawancara-nrm {
         color: #ffffff;
         font-family: Lalezar, 'Source Sans Pro';
-        width: 11.8rem;
-        top: 1.3571rem;
-        left: 0;
-        text-align: center;
-        line-height: 1.5675;
         white-space: nowrap;
+        width: 11.8rem;
         height: 3.2rem;
+        left: 0;
+        font-size: 2rem;
+        line-height: 1.5675;
         position: absolute;
+        top: 1.3571rem;
+        text-align: center;
+        font-weight: 400;
       }
     }
   }

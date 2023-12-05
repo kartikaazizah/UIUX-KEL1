@@ -14,7 +14,7 @@ input {
 }
 body {
   width: 144rem;
-}.pemberi-kerja-click-masuk-GMF {
+}.pemberi-kerja-click-masuk-ums {
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -23,14 +23,14 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 {
   margin-bottom: 3.3rem;
   width: 100%;
   height: 35.7rem;
   position: relative;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K {
   width: 144rem;
   height: 27.2rem;
   position: absolute;
@@ -38,7 +38,7 @@ body {
   top: 0;
   background: linear-gradient(180deg, #ffffff -0%, rgba(255, 255, 255, 0) 100%);
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u {
   box-sizing: border-box;
   padding: 0rem 6.6rem 0.3rem 4.5rem;
   width: 100%;
@@ -48,31 +48,30 @@ body {
   background: linear-gradient(91.95deg, #01d588 0.51%, #09e2b9 98.29%);
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-kjjf-P4V {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-grpt-2k1 {
   margin-bottom: 0.2rem;
   width: 100%;
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-kjjf-P4V .auto-group-ndzj-XAh {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-grpt-2k1 .auto-group-1xxh-yfF {
   margin: 0rem 15.1rem 0.3rem 0rem;
   width: 29.8rem;
   height: 12.8rem;
   position: relative;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-kjjf-P4V .auto-group-ndzj-XAh .logo-removebg-preview-1-3eq {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-grpt-2k1 .auto-group-1xxh-yfF .logo-removebg-preview-1-tXK {
   width: 29.8rem;
   height: 10.9rem;
-  cursor: pointer;
   position: absolute;
   left: 0;
   top: 0;
   object-fit: cover;
   vertical-align: top;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-kjjf-P4V .auto-group-ndzj-XAh .nama-pekerjaan-a8y {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-grpt-2k1 .auto-group-1xxh-yfF .nama-pekerjaan-1rq {
   width: 14.5rem;
   height: 2.4rem;
   position: absolute;
@@ -86,7 +85,7 @@ body {
   font-family: Roboto Slab, 'Source Sans Pro';
   white-space: nowrap;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-kjjf-P4V .di-mana-Fku {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-grpt-2k1 .di-mana-iuf {
   margin-right: 74.3rem;
   display: flex;
   font-size: 1.8rem;
@@ -97,7 +96,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-kjjf-P4V .masuk-aYH {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-grpt-2k1 .masuk-qzH {
   margin-bottom: 6.3rem;
   display: flex;
   font-size: 2rem;
@@ -108,14 +107,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-zwkx-tJ5 {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-b62u-wXX {
   margin-bottom: 4rem;
   height: 6rem;
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-zwkx-tJ5 .auto-group-pe3j-pxR {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-b62u-wXX .auto-group-umeq-gV7 {
   margin-right: 3rem;
   box-sizing: border-box;
   padding: 1rem 1.2rem 1rem 1.8rem;
@@ -127,7 +126,7 @@ body {
   border-radius: 1rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-zwkx-tJ5 .auto-group-pe3j-pxR .nama-pekerjaan-atau-perusahaan-Lvm {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-b62u-wXX .auto-group-umeq-gV7 .nama-pekerjaan-atau-perusahaan-QAD {
   margin-right: 8.4rem;
   display: flex;
   font-size: 1.8rem;
@@ -138,14 +137,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-zwkx-tJ5 .auto-group-pe3j-pxR .icon-search-outline-rPK {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-b62u-wXX .auto-group-umeq-gV7 .icon-search-outline-7KX {
   width: 4rem;
   height: 4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-zwkx-tJ5 .auto-group-wknm-Ymw {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-b62u-wXX .auto-group-guw9-PXw {
   margin-right: 3.1rem;
   box-sizing: border-box;
   padding: 1rem 0.8rem 1rem 2rem;
@@ -157,7 +156,7 @@ body {
   border-radius: 1rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-zwkx-tJ5 .auto-group-wknm-Ymw .nama-kota-atau-provinsi-HDj {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-b62u-wXX .auto-group-guw9-PXw .nama-kota-atau-provinsi-KRb {
   margin-right: 14.2rem;
   display: flex;
   font-size: 1.8rem;
@@ -168,14 +167,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-zwkx-tJ5 .auto-group-wknm-Ymw .icon-pin-outline-QJM {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-b62u-wXX .auto-group-guw9-PXw .icon-pin-outline-2qo {
   width: 4rem;
   height: 4rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-zwkx-tJ5 .bottom-JPj {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-b62u-wXX .bottom-9Qd {
   width: 21rem;
   height: 100%;
   cursor: pointer;
@@ -193,7 +192,7 @@ body {
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-rrp7-uuK {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-tmn9-BMK {
   margin: 0rem 85.3rem 0rem 1.8rem;
   box-sizing: border-box;
   padding: 0.2rem 2.555rem 0rem 2.5rem;
@@ -205,9 +204,8 @@ body {
   border-right: solid 0.1rem #777777;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-rrp7-uuK .semua-jenis-pekerjaan-oUu {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-tmn9-BMK .semua-jenis-pekerjaan-sE9 {
   margin: 0rem 0.4rem 0.4rem 0rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -217,14 +215,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-rrp7-uuK .auto-group-5kzh-W8R {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-tmn9-BMK .auto-group-yfyk-yny {
   margin-right: 2.4547rem;
   width: 20.5453rem;
   height: 100%;
   position: relative;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-rrp7-uuK .auto-group-5kzh-W8R .line-171-SGy {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-tmn9-BMK .auto-group-yfyk-yny .line-171-8A5 {
   width: 0.1rem;
   height: 3.4rem;
   position: absolute;
@@ -233,10 +231,9 @@ body {
   background-color: #777777;
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-rrp7-uuK .auto-group-5kzh-W8R .kapan-saja-Z6h {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-tmn9-BMK .auto-group-yfyk-yny .kapan-saja-2WM {
   width: 9.6rem;
   height: 2.4rem;
-  cursor: pointer;
   position: absolute;
   left: 8rem;
   top: 0.3rem;
@@ -248,7 +245,7 @@ body {
   font-family: Roboto Slab, 'Source Sans Pro';
   white-space: nowrap;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-rrp7-uuK .auto-group-5kzh-W8R .icon-arrow-ios-downward-SwB {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-tmn9-BMK .auto-group-yfyk-yny .icon-arrow-ios-downward-8pH {
   width: 3.5rem;
   height: 2.9878rem;
   position: absolute;
@@ -257,7 +254,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .header-n-navbar-variant2-vRo .background-header-fPP .auto-group-rrp7-uuK .auto-group-5kzh-W8R .icon-arrow-ios-downward-P5j {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .header-n-navbar-variant2-a7K .background-header-K4u .auto-group-tmn9-BMK .auto-group-yfyk-yny .icon-arrow-ios-downward-4xq {
   width: 20.5453rem;
   height: 2.9878rem;
   position: absolute;
@@ -266,14 +263,14 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .button-pilihan-role-Pzq {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .button-pilihan-role-H4u {
   width: 27rem;
   height: 31.4rem;
   position: absolute;
   left: 117rem;
   top: 4.1rem;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .button-pilihan-role-Pzq .rectangle-626-7A9 {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .button-pilihan-role-H4u .rectangle-626-nnM {
   width: 12.6rem;
   height: 7rem;
   position: absolute;
@@ -283,7 +280,7 @@ body {
   background-color: #ffffff;
   border-radius: 2rem;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .button-pilihan-role-Pzq .rectangle-626-p4Z {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .button-pilihan-role-H4u .rectangle-626-soo {
   width: 27rem;
   height: 26.4rem;
   position: absolute;
@@ -293,7 +290,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .button-pilihan-role-Pzq .masuk-ivd {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .button-pilihan-role-H4u .masuk-BpV {
   width: 5.9rem;
   height: 2.4rem;
   position: absolute;
@@ -307,7 +304,7 @@ body {
   font-family: Roboto Slab, 'Source Sans Pro';
   white-space: nowrap;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .button-pilihan-role-Pzq .masuk-sebagai--dXo {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .button-pilihan-role-H4u .masuk-sebagai--tD7 {
   width: 8.9rem;
   height: 1.6rem;
   position: absolute;
@@ -321,7 +318,7 @@ body {
   font-family: Roboto Slab, 'Source Sans Pro';
   white-space: nowrap;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .button-pilihan-role-Pzq .logo-removebg-preview-2-k6d {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .button-pilihan-role-H4u .logo-removebg-preview-2-BCD {
   width: 19.3rem;
   height: 6.8rem;
   position: absolute;
@@ -330,10 +327,9 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .button-pilihan-role-Pzq .button-pilihan-masuk-fUV {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .button-pilihan-role-H4u .button-pilihan-masuk-64H {
   width: 23.9rem;
   height: 3.7rem;
-  cursor: pointer;
   position: absolute;
   left: 1.6rem;
   top: 17.3rem;
@@ -350,7 +346,7 @@ body {
   background: linear-gradient(90deg, #015443 4.18%, #03866b 100%);
   border-radius: 1rem;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-jxjf-nqP .button-pilihan-role-Pzq .button-pilihan-masuk2-JXT {
+.pemberi-kerja-click-masuk-ums .auto-group-ii8q-SG1 .button-pilihan-role-H4u .button-pilihan-masuk2-7VB {
   width: 23.9rem;
   height: 3.7rem;
   cursor: pointer;
@@ -370,29 +366,29 @@ body {
   background: linear-gradient(90deg, #015443 4.18%, #03866b 100%);
   border-radius: 1rem;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 {
   margin: 0rem 13.6rem 11.8rem 14rem;
   width: calc(100% - 27.6rem);
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .auto-group-b7dk-sU5 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .auto-group-dhiy-QMo {
   margin: 0rem 80.5rem 2.336rem 0rem;
   width: calc(100% - 80.5rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .auto-group-b7dk-sU5 .icon-trending-up-CmF {
-  margin-right: 1.1605rem;
-  width: 4.1395rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .auto-group-dhiy-QMo .icon-trending-up-vqw {
+  margin-right: 1.1607rem;
+  width: 4.1393rem;
   height: 4.3636rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .auto-group-b7dk-sU5 .lowongan-yang-sering-dicari-wTw {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .auto-group-dhiy-QMo .lowongan-yang-sering-dicari-fHj {
   margin-top: 0.1364rem;
   display: flex;
   font-size: 2.2rem;
@@ -403,20 +399,20 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP {
   margin: 0rem 0rem 4.8rem 0.5rem;
   height: 16.2rem;
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-1tmo-Abb {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-c3vb-5cM {
   margin: 0rem 2.838rem 0.022rem 0rem;
   width: 13.1625rem;
   height: calc(100% - 0.0215rem);
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-1tmo-Abb .jabatan-UsB {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-c3vb-5cM .jabatan-zDX {
   margin-bottom: 1.9rem;
   display: flex;
   font-size: 2.2rem;
@@ -426,7 +422,7 @@ body {
   font-family: Roboto Slab, 'Source Sans Pro';
   white-space: nowrap;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-1tmo-Abb .auto-group-4x45-R1j {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-c3vb-5cM .auto-group-uhjq-urH {
   margin: 0rem 0rem 2.422rem 0.2rem;
   box-sizing: border-box;
   padding: 0.8rem 2.463rem 0.808rem 0.6rem;
@@ -437,17 +433,16 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-1tmo-Abb .auto-group-4x45-R1j .icon-pie-chart-2-vDP {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-c3vb-5cM .auto-group-uhjq-urH .icon-pie-chart-2-QHF {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-1tmo-Abb .auto-group-4x45-R1j .admin-r73 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-c3vb-5cM .auto-group-uhjq-urH .admin-LAu {
   margin-bottom: 0.0708rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -457,7 +452,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-1tmo-Abb .auto-group-hfkm-YVf {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-c3vb-5cM .auto-group-ndyb-EGH {
   margin-left: 0.2rem;
   box-sizing: border-box;
   padding: 0.8rem 2.263rem 0.808rem 0.6rem;
@@ -468,15 +463,15 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-1tmo-Abb .auto-group-hfkm-YVf .icon-pie-chart-2-rFT {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-c3vb-5cM .auto-group-ndyb-EGH .icon-pie-chart-2-jTw {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-1tmo-Abb .auto-group-hfkm-YVf .barista-neu {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-c3vb-5cM .auto-group-ndyb-EGH .barista-fMb {
   margin-bottom: 0.0708rem;
   display: flex;
   font-size: 1.8rem;
@@ -487,7 +482,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-6ipt-5e1 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-e7nz-jcM {
   margin-right: 2.7rem;
   width: 10.8rem;
   align-items: center;
@@ -495,7 +490,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-6ipt-5e1 .auto-group-4zbs-pbb {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-e7nz-jcM .auto-group-rzbt-Upq {
   margin-bottom: 2.4rem;
   box-sizing: border-box;
   padding: 0.8rem 1.6rem 0.829rem 0.6rem;
@@ -507,15 +502,15 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-6ipt-5e1 .auto-group-4zbs-pbb .icon-pie-chart-2-kEM {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-e7nz-jcM .auto-group-rzbt-Upq .icon-pie-chart-2-Ckq {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-6ipt-5e1 .auto-group-4zbs-pbb .kasir-tLZ {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-e7nz-jcM .auto-group-rzbt-Upq .kasir-9AH {
   margin-bottom: 0.2708rem;
   display: flex;
   font-size: 1.8rem;
@@ -526,7 +521,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-6ipt-5e1 .auto-group-g8xy-BKf {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-e7nz-jcM .auto-group-pxx5-e73 {
   box-sizing: border-box;
   padding: 0.8rem 0.9rem 0.829rem 0.6rem;
   width: 100%;
@@ -537,15 +532,15 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-6ipt-5e1 .auto-group-g8xy-BKf .icon-pie-chart-2-umT {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-e7nz-jcM .auto-group-pxx5-e73 .icon-pie-chart-2-NYq {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-6ipt-5e1 .auto-group-g8xy-BKf .driver-2bB {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-e7nz-jcM .auto-group-pxx5-e73 .driver-6jj {
   margin-bottom: 0.0708rem;
   display: flex;
   font-size: 1.8rem;
@@ -556,7 +551,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-zpau-7Mj {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-8da1-z4R {
   margin-right: 2.8rem;
   width: 19.8rem;
   align-items: center;
@@ -564,7 +559,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-zpau-7Mj .auto-group-xvww-eMf {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-8da1-z4R .auto-group-phzy-8Ad {
   margin: 0rem 0rem 2.4rem 0.1rem;
   box-sizing: border-box;
   padding: 0.8rem 1.7rem 0.829rem 0.6rem;
@@ -576,15 +571,15 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-zpau-7Mj .auto-group-xvww-eMf .icon-pie-chart-2-w5s {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-8da1-z4R .auto-group-phzy-8Ad .icon-pie-chart-2-Qtq {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-zpau-7Mj .auto-group-xvww-eMf .staff-marketing-sER {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-8da1-z4R .auto-group-phzy-8Ad .staff-marketing-kC1 {
   margin-bottom: 0.0708rem;
   display: flex;
   font-size: 1.8rem;
@@ -595,7 +590,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-zpau-7Mj .auto-group-br1o-Z7F {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-8da1-z4R .auto-group-etum-dmb {
   margin-right: 0.1rem;
   box-sizing: border-box;
   padding: 0.8rem 2.3rem 0.829rem 0.6rem;
@@ -607,15 +602,15 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-zpau-7Mj .auto-group-br1o-Z7F .icon-pie-chart-2-std {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-8da1-z4R .auto-group-etum-dmb .icon-pie-chart-2-MSh {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-zpau-7Mj .auto-group-br1o-Z7F .quality-control-p3B {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-8da1-z4R .auto-group-etum-dmb .quality-control-gUy {
   margin-bottom: 0.0708rem;
   display: flex;
   font-size: 1.8rem;
@@ -626,7 +621,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-yxtd-6mP {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-hxad-mWR {
   margin-right: 2.8rem;
   width: 20.4rem;
   align-items: center;
@@ -634,7 +629,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-yxtd-6mP .auto-group-e2qp-3gd {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-hxad-mWR .auto-group-f4u9-7aH {
   margin-bottom: 2.4rem;
   box-sizing: border-box;
   padding: 0.8rem 1.4rem 0.829rem 0.6rem;
@@ -646,15 +641,15 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-yxtd-6mP .auto-group-e2qp-3gd .icon-pie-chart-2-yaH {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-hxad-mWR .auto-group-f4u9-7aH .icon-pie-chart-2-Euo {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-yxtd-6mP .auto-group-e2qp-3gd .staff-accounting-K8M {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-hxad-mWR .auto-group-f4u9-7aH .staff-accounting-BKF {
   margin-bottom: 0.0708rem;
   display: flex;
   font-size: 1.8rem;
@@ -665,7 +660,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-yxtd-6mP .auto-group-smy5-bbf {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-hxad-mWR .auto-group-5owx-UZF {
   box-sizing: border-box;
   padding: 0.8rem 2.5rem 0.829rem 0.6rem;
   width: 100%;
@@ -676,15 +671,15 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-yxtd-6mP .auto-group-smy5-bbf .icon-pie-chart-2-jSy {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-hxad-mWR .auto-group-5owx-UZF .icon-pie-chart-2-QSu {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-yxtd-6mP .auto-group-smy5-bbf .content-creator-Ttm {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-hxad-mWR .auto-group-5owx-UZF .content-creator-jEH {
   margin-bottom: 0.0708rem;
   display: flex;
   font-size: 1.8rem;
@@ -695,12 +690,12 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-jftf-MDT {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-67sr-cos {
   margin-right: 2.3rem;
   width: 17.2rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-jftf-MDT .auto-group-vziq-6Rw {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-67sr-cos .auto-group-rpvf-Zj7 {
   margin-bottom: 2.4rem;
   box-sizing: border-box;
   padding: 0.8rem 1.6rem 0.829rem 0.6rem;
@@ -711,15 +706,15 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-jftf-MDT .auto-group-vziq-6Rw .icon-pie-chart-2-cfB {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-67sr-cos .auto-group-rpvf-Zj7 .icon-pie-chart-2-tWV {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-jftf-MDT .auto-group-vziq-6Rw .staff-gudang-MMs {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-67sr-cos .auto-group-rpvf-Zj7 .staff-gudang-Qjj {
   margin-bottom: 0.0708rem;
   display: flex;
   font-size: 1.8rem;
@@ -730,7 +725,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-jftf-MDT .auto-group-swe5-ebs {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-67sr-cos .auto-group-xkth-JaD {
   margin-right: 6.4rem;
   box-sizing: border-box;
   padding: 0.8rem 2.2rem 0.829rem 0.6rem;
@@ -741,15 +736,15 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-jftf-MDT .auto-group-swe5-ebs .icon-pie-chart-2-Aq7 {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-67sr-cos .auto-group-xkth-JaD .icon-pie-chart-2-DBP {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-jftf-MDT .auto-group-swe5-ebs .host-W1o {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-67sr-cos .auto-group-xkth-JaD .host-wt5 {
   margin-bottom: 0.0708rem;
   display: flex;
   font-size: 1.8rem;
@@ -760,7 +755,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-v1kw-As3 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-4sfj-F85 {
   margin: 4.8rem 0rem 6.9rem 0rem;
   box-sizing: border-box;
   padding: 0.8rem 1.1rem 0.829rem 1.1rem;
@@ -772,17 +767,16 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-v1kw-As3 .icon-pie-chart-2-4hX {
-  margin-right: 1.277rem;
-  width: 2.723rem;
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-4sfj-F85 .icon-pie-chart-2-k4q {
+  margin-right: 1.2768rem;
+  width: 2.7232rem;
   height: 2.8708rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-90-et9 .auto-group-v1kw-As3 .customer-service-zLH {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-90-AVP .auto-group-4sfj-F85 .customer-service-5N1 {
   margin-bottom: 0.0708rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -792,12 +786,12 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 {
   margin-left: 0.7rem;
   width: 111.8rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .perusahaan-dPF {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .perusahaan-JkZ {
   margin-bottom: 1.9rem;
   display: flex;
   font-size: 2.2rem;
@@ -807,14 +801,14 @@ body {
   font-family: Roboto Slab, 'Source Sans Pro';
   white-space: nowrap;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 {
   margin-bottom: 2.2rem;
   width: 100%;
   height: 4.5rem;
   display: flex;
   align-items: center;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .group-88-he1 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .group-88-y61 {
   margin-right: 2.9rem;
   box-sizing: border-box;
   padding: 0.9rem 0.7rem 0.9rem 0.9rem;
@@ -826,7 +820,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .group-88-he1 .emoji-office-building-dGm {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .group-88-y61 .emoji-office-building-HsP {
   margin-right: 1rem;
   width: 2.7rem;
   height: 2.7rem;
@@ -834,9 +828,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .group-88-he1 .ganesha-operation-surabaya-dsk-MyT {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .group-88-y61 .ganesha-operation-surabaya-dsk-dAZ {
   margin-bottom: 0.1rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -846,7 +839,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .auto-group-6p13-Sk1 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .auto-group-hgad-JnV {
   margin-right: 3rem;
   box-sizing: border-box;
   padding: 0.9rem 1.6rem 0.9rem 0.9rem;
@@ -858,7 +851,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .auto-group-6p13-Sk1 .emoji-office-building-mnH {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .auto-group-hgad-JnV .emoji-office-building-qGd {
   margin-right: 0.9rem;
   width: 2.7rem;
   height: 2.7rem;
@@ -866,9 +859,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .auto-group-6p13-Sk1 .pt-media-telekomunikasi-mandiri-K37 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .auto-group-hgad-JnV .pt-media-telekomunikasi-mandiri-AZo {
   margin-bottom: 0.1rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -878,7 +870,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .auto-group-ckqv-C6u {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .auto-group-wbih-rSd {
   box-sizing: border-box;
   padding: 0.9rem 1.3rem 0.9rem 0.9rem;
   height: 100%;
@@ -889,7 +881,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .auto-group-ckqv-C6u .emoji-office-building-iqw {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .auto-group-wbih-rSd .emoji-office-building-Bzh {
   margin-right: 1rem;
   width: 2.7rem;
   height: 2.7rem;
@@ -897,9 +889,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-biqh-APB .auto-group-ckqv-C6u .pt-arta-boga-boga-cemerlang-497 {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-wzch-S65 .auto-group-wbih-rSd .pt-arta-boga-boga-cemerlang-iUq {
   margin-bottom: 0.1rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -909,11 +900,11 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd {
   display: flex;
   align-items: flex-end;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-fydt-HGm {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-5jwd-kRX {
   margin: 0.2rem 3rem 0rem 0rem;
   box-sizing: border-box;
   padding: 0.9rem 2.2rem 0.9rem 0.9rem;
@@ -924,7 +915,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-fydt-HGm .emoji-office-building-zgy {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-5jwd-kRX .emoji-office-building-f2h {
   margin-right: 1rem;
   width: 2.7rem;
   height: 2.7rem;
@@ -932,7 +923,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-fydt-HGm .cv-berlian-retail-Xgu {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-5jwd-kRX .cv-berlian-retail-PjP {
   margin-bottom: 0.1rem;
   display: flex;
   font-size: 1.8rem;
@@ -943,7 +934,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-jjqq-2df {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-xdop-HZs {
   margin: 0.2rem 3rem 0rem 0rem;
   box-sizing: border-box;
   padding: 0.9rem 1.7rem 0.9rem 0.9rem;
@@ -954,7 +945,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-jjqq-2df .emoji-office-building-x1X {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-xdop-HZs .emoji-office-building-bqT {
   margin-right: 1rem;
   width: 2.7rem;
   height: 2.7rem;
@@ -962,9 +953,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-jjqq-2df .panara-course-UEm {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-xdop-HZs .panara-course-weR {
   margin-bottom: 0.1rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -974,7 +964,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-xdxu-ZGD {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-ap1s-d1T {
   margin: 0.2rem 3.2rem 0rem 0rem;
   box-sizing: border-box;
   padding: 0.9rem 1.4rem 0.9rem 0.9rem;
@@ -985,7 +975,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-xdxu-ZGD .emoji-office-building-U8H {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-ap1s-d1T .emoji-office-building-LAm {
   margin-right: 1rem;
   width: 2.7rem;
   height: 2.7rem;
@@ -993,9 +983,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-xdxu-ZGD .bali-super-host-oRT {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-ap1s-d1T .bali-super-host-FoX {
   margin-bottom: 0.1rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -1005,7 +994,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-gadf-txh {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-zxds-wwF {
   margin-bottom: 0.2rem;
   box-sizing: border-box;
   padding: 1.1rem 1.7rem 0.7rem 0.9rem;
@@ -1016,7 +1005,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-gadf-txh .emoji-office-building-prM {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-zxds-wwF .emoji-office-building-Gid {
   margin-right: 1rem;
   width: 2.7rem;
   height: 2.7rem;
@@ -1024,9 +1013,8 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .yang-sering-dicari-Ywb .group-89-gU1 .auto-group-zkeu-LcR .auto-group-gadf-txh .angonjiwo-MrH {
+.pemberi-kerja-click-masuk-ums .yang-sering-dicari-6c1 .group-89-NM7 .auto-group-xdey-bYd .auto-group-zxds-wwF .angonjiwo-cGh {
   margin-bottom: 0.1rem;
-  cursor: pointer;
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -1036,8 +1024,8 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .footer-e4h {
-  margin-bottom: 18.2rem;
+.pemberi-kerja-click-masuk-ums .footer-g1f {
+  margin-bottom: 0;
   box-sizing: border-box;
   padding: 2.7rem 15.1rem 2.8rem 14rem;
   width: 100%;
@@ -1046,7 +1034,7 @@ body {
   background-color: #008a88;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .footer-e4h .tentang-jobstreet-express-ZSZ {
+.pemberi-kerja-click-masuk-ums .footer-g1f .tentang-jobstreet-express-zY9 {
   margin-right: 4.6rem;
   display: flex;
   font-size: 1.8rem;
@@ -1057,7 +1045,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .footer-e4h .pusat-bantuan-fVb {
+.pemberi-kerja-click-masuk-ums .footer-g1f .pusat-bantuan-5pV {
   margin-right: 44.9rem;
   display: flex;
   font-size: 1.8rem;
@@ -1068,7 +1056,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .footer-e4h .copyright-2023-jobstreet-express-b8M {
+.pemberi-kerja-click-masuk-ums .footer-g1f .copyright-2023-jobstreet-express-p1P {
   display: flex;
   font-size: 1.8rem;
   font-weight: 400;
@@ -1078,14 +1066,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .rectangle-594-hhB {
+.pemberi-kerja-click-masuk-ums .rectangle-594-Kiq {
   margin: 0rem 0.2rem 35.9rem 0rem;
   width: 144.5rem;
   height: 35.5rem;
   background-color: #8c8989;
   flex-shrink: 0;
 }
-.pemberi-kerja-click-masuk-GMF .auto-group-at3j-oER {
+.pemberi-kerja-click-masuk-ums .auto-group-qepb-FMb {
   width: 100%;
   height: 12.8rem;
   background-color: #999393;

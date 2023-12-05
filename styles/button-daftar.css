@@ -14,9 +14,9 @@ input {
 }
 body {
   width: 23.59rem;
-}.button-daftar-kam {
+}.button-daftar-fwf {
   box-sizing: border-box;
-  padding: 2rem;
+  padding: 2rem 2rem 2rem 2rem;
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -26,7 +26,7 @@ body {
   border: dashed 0.1rem #9747ff;
   border-radius: 0.5rem;
 }
-.button-daftar-kam .property-1default-6ed {
+.button-daftar-fwf .property-1default-nFb {
   margin-bottom: 2rem;
   width: 100%;
   height: 5.8396rem;
@@ -45,7 +45,7 @@ body {
   border-radius: 2rem;
   flex-shrink: 0;
 }
-.button-daftar-kam .property-1variant2-Z2R {
+.button-daftar-fwf .property-1variant2-cVX {
   width: 100%;
   height: 5.8396rem;
   text-align: center;

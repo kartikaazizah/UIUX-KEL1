@@ -14,7 +14,7 @@ input {
 }
 body {
   width: 39.6rem;
-}.input-time-picker-Ve9 {
+}.input-time-picker-67B {
   box-sizing: border-box;
   padding: 2.4rem 0.8rem 0rem 2.4rem;
   width: 100%;
@@ -24,7 +24,7 @@ body {
   background-color: #ffffff;
   border-radius: 0.4rem;
 }
-.input-time-picker-Ve9 .title-pgR {
+.input-time-picker-67B .title-nPK {
   margin-bottom: 2.4rem;
   font-size: 1rem;
   font-weight: 500;
@@ -36,22 +36,37 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .time-input-L8y {
-  margin-bottom: 3.7rem;
-  height: 10.3rem;
+.input-time-picker-67B .auto-group-cdwo-UfT {
+  width: 100%;
+  height: 20.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F {
+  width: 28.1rem;
+  height: 20.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
   display: flex;
+  align-items: center;
+}
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .auto-group-u8os-9Wh {
+  box-sizing: border-box;
+  padding-right: 1.2rem;
+  height: 100%;
+  display: flex;
+  column-gap: 0.55rem;
   align-items: flex-start;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .time-input-L8y .time-selector-fh3 {
-  margin-right: 0.55rem;
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .auto-group-u8os-9Wh .time-selector-Uos {
   width: 9.6rem;
-  height: 100%;
   overflow: hidden;
   position: relative;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .time-input-L8y .time-selector-fh3 .input-field-1W1 {
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .auto-group-u8os-9Wh .time-selector-Uos .input-field-E2M {
   margin-bottom: 0.7rem;
   box-sizing: border-box;
   padding: 0 4.15rem;
@@ -68,7 +83,7 @@ body {
   background-color: #ffffff;
   border-radius: 0.4rem;
 }
-.input-time-picker-Ve9 .time-input-L8y .time-selector-fh3 .label-5Vs {
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .auto-group-u8os-9Wh .time-selector-Uos .label-5Hs {
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1.3333333333;
@@ -77,8 +92,8 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.input-time-picker-Ve9 .time-input-L8y .separator-ogm {
-  margin: 0.8rem 0.55rem 0rem 0rem;
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .auto-group-u8os-9Wh .separator-nTB {
+  margin-top: 0.8rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -90,15 +105,13 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .time-input-L8y .time-selector-vFb {
-  margin-right: 1.2rem;
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .auto-group-u8os-9Wh .time-selector-6im {
   width: 9.6rem;
-  height: 100%;
   overflow: hidden;
   position: relative;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .time-input-L8y .time-selector-vFb .input-field-TmK {
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .auto-group-u8os-9Wh .time-selector-6im .input-field-rT3 {
   margin-bottom: 0.7rem;
   width: 100%;
   height: 8rem;
@@ -114,7 +127,7 @@ body {
   background-color: rgba(33, 33, 33, 0.0799999982);
   border-radius: 0.4rem;
 }
-.input-time-picker-Ve9 .time-input-L8y .time-selector-vFb .label-Z3f {
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .auto-group-u8os-9Wh .time-selector-6im .label-XZB {
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1.3333333333;
@@ -123,9 +136,9 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
 }
-.input-time-picker-Ve9 .time-input-L8y .period-selector-UwK {
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .period-selector-43K {
   width: 5.2rem;
-  height: 8rem;
+  height: 100%;
   overflow: hidden;
   position: relative;
   align-items: center;
@@ -137,54 +150,91 @@ body {
   border-radius: 0.4rem;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .time-input-L8y .period-selector-UwK .am-pEV {
-  margin-bottom: 1.2rem;
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .period-selector-43K .time-selector-nk1 {
   width: 100%;
-  height: 4.1rem;
+  overflow: hidden;
+  position: relative;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.4rem;
-  font-weight: 500;
-  line-height: 1.1428571429;
-  letter-spacing: 0.125rem;
-  text-transform: uppercase;
-  color: #6200ee;
-  font-family: Roboto, 'Source Sans Pro';
-  white-space: nowrap;
-  border-bottom: solid 0.1rem #dadce0;
-  box-sizing: border-box;
-  background-color: #f2e7fe;
+  flex-direction: column;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .time-input-L8y .period-selector-UwK .pm-syT {
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .period-selector-43K .time-selector-nk1 .input-field-YjB {
+  margin-bottom: 0.7rem;
   box-sizing: border-box;
-  padding: 0rem 1.45rem 0rem 1.35rem;
+  padding: 0.8rem 1rem;
   width: 100%;
-  height: 2.8rem;
+  height: 8rem;
+  background-color: rgba(33, 33, 33, 0.0799999982);
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .period-selector-43K .time-selector-nk1 .input-field-YjB .hour-hint-text-V8d {
+  max-width: 3.2rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.4rem;
-  font-weight: 500;
+  font-size: 5.6rem;
+  font-weight: 400;
   line-height: 1.1428571429;
-  letter-spacing: 0.125rem;
-  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.8700000048);
+  font-family: Roboto, 'Source Sans Pro';
+}
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .period-selector-43K .time-selector-nk1 .label-NiD {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.04rem;
   color: rgba(0, 0, 0, 0.6000000238);
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
-  border-bottom: solid 0.1rem #dadce0;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .buttons-uQM {
-  margin-left: 0.2rem;
-  width: calc(100% - 0.2rem);
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .period-selector-43K .time-selector-Vnq {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .period-selector-43K .time-selector-Vnq .input-field-TUm {
+  margin-bottom: 0.7rem;
+  box-sizing: border-box;
+  padding: 0 1.95rem;
+  width: 100%;
+  height: 8rem;
+  text-align: center;
+  font-size: 5.6rem;
+  font-weight: 300;
+  line-height: 1.3303571429;
+  color: #6200ee;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #6200ee;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.input-time-picker-67B .auto-group-cdwo-UfT .time-input-D7F .period-selector-43K .time-selector-Vnq .label-8L1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.04rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.input-time-picker-67B .auto-group-cdwo-UfT .buttons-cky {
+  width: 36.2rem;
   height: 3.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 14rem;
   display: flex;
   align-items: center;
-  flex-shrink: 0;
 }
-.input-time-picker-Ve9 .buttons-uQM .icon-3WZ {
+.input-time-picker-67B .auto-group-cdwo-UfT .buttons-cky .icon-Lws {
   margin-right: 19.3rem;
   width: 2rem;
   height: 2rem;
@@ -192,7 +242,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .buttons-uQM .actions-aWV {
+.input-time-picker-67B .auto-group-cdwo-UfT .buttons-cky .actions-UoB {
   height: 100%;
   overflow: hidden;
   position: relative;
@@ -200,7 +250,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .buttons-uQM .actions-aWV .button-LVf {
+.input-time-picker-67B .auto-group-cdwo-UfT .buttons-cky .actions-UoB .button-qdj {
   margin-right: 0.8rem;
   width: 7.7rem;
   height: 100%;
@@ -218,7 +268,7 @@ body {
   border-radius: 0.4rem;
   flex-shrink: 0;
 }
-.input-time-picker-Ve9 .buttons-uQM .actions-aWV .button-E5F {
+.input-time-picker-67B .auto-group-cdwo-UfT .buttons-cky .actions-UoB .button-7r9 {
   width: 6.4rem;
   height: 100%;
   display: flex;
